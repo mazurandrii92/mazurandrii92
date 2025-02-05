@@ -43,7 +43,7 @@ Upcoming:
 ---
 
 ### 🔬 AlphaFold Projects
-- **[AlphaFold Benchmarking Project](#)**  
+- **[AlphaFold Benchmarking Project]([AlphaFold Benchmarking Project])**  
 
 Upcoming:
 - Protein Structure Prediction and Analysis
