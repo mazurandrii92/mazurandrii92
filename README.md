@@ -1,6 +1,6 @@
 # Hi there and welcome! 👋
 
-My name is **Andrii Mazur**, a **Regulatory Affairs Specialist**, **PhD in Biophysics**, and **Data Scientist** with a unique blend of expertise spanning over 7 years in the biotech and MedTech industries.
+My name is **Andrii Mazur**, a **Data Scientist** with **PhD in Biophysics** and a unique blend of expertise in  spanning over 7 years in the biotech and MedTech industries.
 
 I bring together a scientific background, regulatory expertise, and data-driven insights to bridge the gap between science and technology. 
 
@@ -24,7 +24,7 @@ I am passionate about:
 ## 🔬 Projects
 
 ### 📊 Pharmaceutical Projects
-- **[Bioresponse Prediction Project](#)**
+- **[Bioresponse Prediction Project](https://github.com/mazurandrii92/Pharmaceutical-projects/tree/main/bioresponse)**
   
 Upcoming: 
 - Regulatory Data Analysis 
@@ -59,7 +59,7 @@ Upcoming:
 ---
 
 ### 🏢 Business Projects
-- **[A/B Testing Landing Page](#)**  
+- **[A/B Testing Landing Page](https://github.com/mazurandrii92/Business-projects/tree/main/AB%20testing%20landing%20page)**  
 
 Upcoming:
 - New-York Taxi Segmentation Project  
@@ -90,7 +90,7 @@ Upcoming:
 ---
 
 ### 🏭 Industrial Projects
-- **[Oil Refinery Production Prediction Analysis](#)**  
+- **[Oil Refinery Production Prediction Analysis](https://github.com/mazurandrii92/Industrial-projects/tree/main/Oil%20refinery%20production%20prediction%20analysis)**  
 
 Upcoming: 
 - Energy consumption prediction Project  
