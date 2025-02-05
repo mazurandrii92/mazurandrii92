@@ -99,7 +99,7 @@ Upcoming:
 
 
 ## 📬 Contacts
-- [LinkedIn]((https://www.linkedin.com/in/andrii-mazur-phd/))  
+- [LinkedIn] ([(https://www.linkedin.com/in/andrii-mazur-phd/)])  
 
 ---
 
