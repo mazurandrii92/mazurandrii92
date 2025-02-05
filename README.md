@@ -25,6 +25,7 @@ I am passionate about:
 
 ### 📊 Pharmaceutical Projects
 - **[Bioresponse Prediction Project](#)**
+  
 Upcoming: 
 - Regulatory Data Analysis 
 - Disease Pathway Analysis  
@@ -43,7 +44,7 @@ Upcoming:
 ---
 
 ### 🔬 AlphaFold Projects
-- **[AlphaFold Benchmarking Project]([AlphaFold Benchmarking Project])**  
+- **[AlphaFold Benchmarking Project](https://github.com/mazurandrii92/AlphaFold-projects/tree/main/AlphaFold%20Benchmarking%20Project)**  
 
 Upcoming:
 - Protein Structure Prediction and Analysis
