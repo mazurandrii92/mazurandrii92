@@ -24,22 +24,21 @@ I am passionate about:
 ## 🔬 Projects
 
 ### 📊 Pharmaceutical Projects
-- **[Bioresponse Prediction Project](#)**  
-- **[Regulatory Data Analysis](#)**  
-- **[Disease Pathway Analysis](#)**  
-- **[Cost-Effectiveness Analysis (CEA) of a Drug](#)**  
-- **[Budget Impact Analysis (BIA)](#)**  
-
-Upcoming:
-- Trends in regulatory language changes over time
+- **[Bioresponse Prediction Project](#)**
+Upcoming: 
+- Regulatory Data Analysis 
+- Disease Pathway Analysis  
+- Cost-Effectiveness Analysis (CEA) of a Drug
+- Budget Impact Analysis (BIA)
 
 ---
 
 ### 🧬 RNA-seq Analysis Projects
-- **[Functional Enrichment Analysis](#)**  
-- **[RNA-seq Clustering and Classification](#)**  
-- **[Single-cell RNA-seq Analysis](#)**  
-- **[Predictive Modeling from RNA-seq Data](#)**  
+Upcoming:
+- Functional Enrichment Analysis  
+- RNA-seq Clustering and Classification  
+- Single-cell RNA-seq Analysis
+- Predictive Modeling from RNA-seq Data
 
 ---
 
