@@ -90,10 +90,10 @@ Upcoming:
 ---
 
 ### 🏭 Industrial Projects
-- **[Oil Refinery Production Prediction Analysis](https://github.com/mazurandrii92/Industrial-projects/tree/main/Oil%20refinery%20production%20prediction%20analysis)**  
+- **[Oil Refinery Production Prediction Analysis](https://github.com/mazurandrii92/Industrial-projects/tree/main/Oil%20refinery%20production%20prediction%20analysis)**
+- **[Energy consumption prediction Project](https://github.com/mazurandrii92/Industrial-projects/tree/main/energy_consumption_forecast_project_Mazur)**
 
-Upcoming: 
-- Energy consumption prediction Project  
+Upcoming:  
 - Cars Recognition Project
 
 
