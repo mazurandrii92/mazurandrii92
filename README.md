@@ -82,10 +82,8 @@ Upcoming:
 ---
 
 ### 🌍 Humanitarian Projects
-- **[Humanitarian Aid Optimization Project (Clustering)](https://github.com/mazurandrii92/Humanitarian-projects/tree/main/Humanitarian%20aid%20optimization%20project%20(clasterization))**  
-
-Upcoming:
-- EDA UNICEF Project
+- **[Humanitarian Aid Optimization Project (Clustering)](https://github.com/mazurandrii92/Humanitarian-projects/tree/main/Humanitarian%20aid%20optimization%20project%20(clasterization))**
+- **[(EDA UNICEF Project)](https://github.com/mazurandrii92/Humanitarian-projects/tree/main/EDA%20UNICEF%20Project)**
 
 ---
 
