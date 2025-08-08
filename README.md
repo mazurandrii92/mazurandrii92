@@ -35,26 +35,18 @@ Upcoming:
 ---
 
 ### 🧬 RNA-seq Analysis Projects
-Upcoming:
-- Functional Enrichment Analysis  
-- RNA-seq Clustering and Classification  
-- Single-cell RNA-seq Analysis
-- Predictive Modeling from RNA-seq Data
+
 
 ---
 
-### 🔬 AlphaFold Projects
+### 🔬 Structural biochemistry Projects
 - **[AlphaFold Benchmarking Project](https://github.com/mazurandrii92/AlphaFold-projects/tree/main/AlphaFold%20Benchmarking%20Project)**  
 
 Upcoming:
-- Protein Structure Prediction and Analysis
 - Protein-Ligand Interaction Modeling
 - Mutational Analysis of Protein Stability
 - Protein-Protein Interaction Prediction
-- AlphaFold-Driven Drug Discovery
-- Machine Learning on AlphaFold Predictions
-- Cross-Species Protein Evolution Analysis
-- Combining AlphaFold with Cryo-EM or X-Ray Crystallography
+
 
 ---
 
