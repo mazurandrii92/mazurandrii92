@@ -40,7 +40,7 @@ Upcoming:
 ---
 
 ### 🔬 Structural biochemistry Projects
-- **[AlphaFold Benchmarking Project](https://github.com/mazurandrii92/AlphaFold-projects/tree/main/AlphaFold%20Benchmarking%20Project)**  
+- **[AlphaFold Protein structure prediction Project](https://github.com/mazurandrii92/AlphaFold-projects/tree/main/AlphaFold%20Benchmarking%20Project)**  
 
 Upcoming:
 - Protein-Ligand Interaction Modeling
